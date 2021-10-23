@@ -1,5 +1,5 @@
 # Dev Icons in PNG for Readme.md Projects
-Just copy Image and past 
+
 ### With background for dark github
 ![image](https://user-images.githubusercontent.com/81401104/138545019-2ce3a339-e748-44ba-b121-a0e5a96ef64b.png)
 ![1ts38545019-2ce3a339-e748-44ba-b121-a0e5a96ef64b](https://user-images.githubusercontent.com/81401104/138545211-cd3a5c81-95fe-4dc0-95f6-1d4765b7cca5.png)
@@ -7,7 +7,7 @@ Just copy Image and past
 ![darkaws](https://user-images.githubusercontent.com/81401104/138546534-d9585518-c56c-421a-82a7-9d2a993a441d.png)
 
 
-###### Size 104x106
+###### Size 104x106. Just copy Image and past. 
 
 ## With transparenty background
 
