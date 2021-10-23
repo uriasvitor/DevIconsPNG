@@ -5,6 +5,7 @@
 ![logo-2582748_1280 (1)](https://user-images.githubusercontent.com/81401104/138545429-24c7e3f5-8cbb-4a5b-8cae-4c4d369cd628.png)
 ![css](https://user-images.githubusercontent.com/81401104/138545561-ad4a7f8c-7530-4ef8-970c-ec131fa1a796.png)
 
+####### size 104x106
 ## With transparenty background
 
 ![firebase](https://user-images.githubusercontent.com/81401104/138546145-774ad6f7-fef5-4758-822c-4d6090a510cb.png)
